@@ -8601,3 +8601,10 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+
+
+	.about-me-list {
+		list-style: none;
+		transition: all 1s linear;
+	}
