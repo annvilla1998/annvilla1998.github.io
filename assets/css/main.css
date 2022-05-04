@@ -2693,7 +2693,7 @@ input, select, textarea {
 		}
 
 	ul {
-		list-style: disc;
+		list-style: none;
 		margin: 0 0 2rem 0;
 		padding-left: 1rem;
 	}
@@ -8604,7 +8604,3 @@ input, select, textarea {
 
 
 
-	.about-me-list li {
-		list-style: none;
-		transition: all 1s linear;
-	}
