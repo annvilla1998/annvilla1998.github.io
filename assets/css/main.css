@@ -8604,7 +8604,7 @@ input, select, textarea {
 
 
 
-	.about-me-list {
+	.about-me-list li {
 		list-style: none;
 		transition: all 1s linear;
 	}
